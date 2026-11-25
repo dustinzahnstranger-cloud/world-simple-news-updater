@@ -1,13 +1,14 @@
 {
-  "date": "2026-11-24",
-  "checkedAt": "2026-11-24T00:24:48.008Z",
-  "lastSuccessAt": "2026-11-24T00:24:48.008Z",
+  "date": "2026-11-25",
+  "checkedAt": "2026-11-25T00:39:48.377Z",
+  "lastSuccessAt": "2026-11-25T00:39:48.377Z",
   "successfulSources": [
     "abc",
     "aljazeera",
     "ars",
     "dw",
     "france24",
+    "nasa",
     "ukrinform"
   ]
 }
