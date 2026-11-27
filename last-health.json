@@ -1,14 +1,28 @@
 {
-  "date": "2026-11-26",
-  "checkedAt": "2026-11-26T00:08:57.044Z",
-  "lastSuccessAt": "2026-11-26T00:08:57.044Z",
+  "date": "2026-11-27",
+  "checkedAt": "2026-11-27T00:05:21.525Z",
+  "lastSuccessAt": "2026-11-27T00:05:21.525Z",
   "successfulSources": [
     "abc",
+    "agenciabrasil",
     "aljazeera",
     "ars",
+    "conversationafrica",
     "dw",
+    "ecb",
+    "federalreserve",
     "france24",
+    "gv",
+    "hongkong",
+    "icij",
+    "kff",
+    "kyivindependent",
+    "merco",
+    "mongabay",
     "nasa",
-    "ukrinform"
+    "propublica",
+    "publicdomain",
+    "ukrinform",
+    "undark"
   ]
 }
